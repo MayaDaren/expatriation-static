@@ -6,6 +6,8 @@ Scripts chargés par www.expatriation.io et www.expat-ukraine.com (`ukr/`), serv
 
 En service (08/11/2026) : v1.0.0 = `2917a3768b9a6515d6c44b3f00084ad81a9783b8` (www), v1.1.0 = `1c981f3c8ff0ef07bc1a43ec1006e555567f7a2f` (expat-ukraine).
 
+Depuis le 08/11/2026 vers 13:10 (Paris), `js/www-cross-eco-cta.js` est servi en v1.2.0 = `619301615a0ceb8e5a506bf655de76921ca067ed` (script Webflow `wwwcrossecocta` 1.3.0, Blog Template) : la carte Guide France-Suisse annonce un guide offert. Les autres scripts www restent en v1.0.0.
+
 Ils étaient servis par app.expatriation.io (Vercel) jusqu'au 08/11/2026. La suspension du compte Vercel le 06/11 a fait disparaître le bandeau de consentement, GA4 et les bandes de www.
 
 ## Règles
