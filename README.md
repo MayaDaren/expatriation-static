@@ -8,6 +8,8 @@ En service (08/11/2026) : v1.0.0 = `2917a3768b9a6515d6c44b3f00084ad81a9783b8` (w
 
 Depuis le 08/11/2026 vers 13:10 (Paris), `js/www-cross-eco-cta.js` est servi en v1.2.0 = `619301615a0ceb8e5a506bf655de76921ca067ed` (script Webflow `wwwcrossecocta` 1.3.0, Blog Template) : la carte Guide France-Suisse annonce un guide offert. Les autres scripts www restent en v1.0.0.
 
+Depuis le 16/11/2026 (production www vers 03:30, Paris), `js/www-cross-eco-cta.js` est servi en v1.3.0 = `8f49cd69685408a88f88ef5a63aaa383913188c0` (script Webflow `wwwcrossecocta` 1.4.0, Blog Template, `sha384-TQLHJhz0thkCzlX6n+NLoV0n0Z9tpRTDgXRd2Nrr6A1prVPFs45t91PkFMb9ny6p`) : la carte Guide France-Suisse dit « le bon réflexe à adopter dans chacune ».
+
 Ils étaient servis par app.expatriation.io (Vercel) jusqu'au 08/11/2026. La suspension du compte Vercel le 06/11 a fait disparaître le bandeau de consentement, GA4 et les bandes de www.
 
 ## Règles
