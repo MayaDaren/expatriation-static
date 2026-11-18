@@ -17,6 +17,8 @@ Depuis le 18/11/2026 (production expat-ukraine vers 20:15, Paris) :
 
 Depuis le 18/11/2026 vers 20:28 (Paris), `ukr/ukrnavwww1.js` est servi en v1.6.0 = `2c6c8b8adcd32aaa091329fced50528d65e0f01a` (script Webflow `ukrnavwww1` 1.2.0, `sha384-wcLFCs2RKZV/oUP01Dp2dgnbM3Kmsj6wbEW2svddZS+SUzAGm4QLaZwwfJxPq+kY`) : logo EXPAT UKRAINE à 60 px, loupe de recherche identique à celle de www.
 
+Depuis le 19/11/2026 vers 00:02 (Paris), `ukr/ukrnavwww1.js` est servi en v1.7.0 = `2c51cc22fcbdf2716af5ad230075c2979bb6eb34` (script Webflow `ukrnavwww1` 1.3.0, `sha384-04dNwzQSPobiKzX1gkobDKCSksVJkysKVRtZ/0pwMEn1Y55fIc/e7vpnL3Z2Ff9n`) : liens du menu aux valeurs de 1440 px (14 px, 1,68 px, padding 5/14 px) dès 992 px, paliers fins des liens retirés, paliers de largeur de la recherche gardés.
+
 Ils étaient servis par app.expatriation.io (Vercel) jusqu'au 08/11/2026. La suspension du compte Vercel le 06/11 a fait disparaître le bandeau de consentement, GA4 et les bandes de www.
 
 ## Règles
