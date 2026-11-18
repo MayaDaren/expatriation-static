@@ -15,6 +15,8 @@ Depuis le 18/11/2026 (production expat-ukraine vers 20:15, Paris) :
 - `ukr/ukrbilanband6.js` est servi en v1.4.0 = `2c78e88efabcf7e2c33f98b596bba7668e83f028` (script Webflow `ukrbilanband6` 1.3.0, `sha384-adc/OC0IoDO3zbLY4dl7GtOLgUqhjYtcUI2fZY+5IycCVBLaMgFAsuyILqZP6yn2`) : « les éventuels scénarios écartés ».
 - `ukr/ukrnavwww1.js` est servi en v1.5.0 = `843c653b0f47e81f9e6aa84502e115e941e39f21` (script Webflow `ukrnavwww1` 1.1.0, en-tête, `sha384-3rmyKEcjtmExALDM7ziVo957GgK70xo2NVF1YKNKt/bHpBjn1SI348ACDcNkz5Qg`) : menu d'expat-ukraine identique à celui de www (barre, filet or, liens, recherche, menu mobile), menu mobile en Arial. Il remplace le script inline `ukrnavcenter2`. Le commit intermédiaire `93971cf` n'a servi qu'en staging.
 
+Depuis le 18/11/2026 vers 20:28 (Paris), `ukr/ukrnavwww1.js` est servi en v1.6.0 = `2c6c8b8adcd32aaa091329fced50528d65e0f01a` (script Webflow `ukrnavwww1` 1.2.0, `sha384-wcLFCs2RKZV/oUP01Dp2dgnbM3Kmsj6wbEW2svddZS+SUzAGm4QLaZwwfJxPq+kY`) : logo EXPAT UKRAINE à 60 px, loupe de recherche identique à celle de www.
+
 Ils étaient servis par app.expatriation.io (Vercel) jusqu'au 08/11/2026. La suspension du compte Vercel le 06/11 a fait disparaître le bandeau de consentement, GA4 et les bandes de www.
 
 ## Règles
