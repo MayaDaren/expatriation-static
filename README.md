@@ -10,6 +10,11 @@ Depuis le 08/11/2026 vers 13:10 (Paris), `js/www-cross-eco-cta.js` est servi en 
 
 Depuis le 16/11/2026 (production www vers 03:30, Paris), `js/www-cross-eco-cta.js` est servi en v1.3.0 = `8f49cd69685408a88f88ef5a63aaa383913188c0` (script Webflow `wwwcrossecocta` 1.4.0, Blog Template, `sha384-TQLHJhz0thkCzlX6n+NLoV0n0Z9tpRTDgXRd2Nrr6A1prVPFs45t91PkFMb9ny6p`) : la carte Guide France-Suisse dit « le bon réflexe à adopter dans chacune ».
 
+Depuis le 18/11/2026 (production expat-ukraine vers 20:15, Paris) :
+
+- `ukr/ukrbilanband6.js` est servi en v1.4.0 = `2c78e88efabcf7e2c33f98b596bba7668e83f028` (script Webflow `ukrbilanband6` 1.3.0, `sha384-adc/OC0IoDO3zbLY4dl7GtOLgUqhjYtcUI2fZY+5IycCVBLaMgFAsuyILqZP6yn2`) : « les éventuels scénarios écartés ».
+- `ukr/ukrnavwww1.js` est servi en v1.5.0 = `843c653b0f47e81f9e6aa84502e115e941e39f21` (script Webflow `ukrnavwww1` 1.1.0, en-tête, `sha384-3rmyKEcjtmExALDM7ziVo957GgK70xo2NVF1YKNKt/bHpBjn1SI348ACDcNkz5Qg`) : menu d'expat-ukraine identique à celui de www (barre, filet or, liens, recherche, menu mobile), menu mobile en Arial. Il remplace le script inline `ukrnavcenter2`. Le commit intermédiaire `93971cf` n'a servi qu'en staging.
+
 Ils étaient servis par app.expatriation.io (Vercel) jusqu'au 08/11/2026. La suspension du compte Vercel le 06/11 a fait disparaître le bandeau de consentement, GA4 et les bandes de www.
 
 ## Règles
